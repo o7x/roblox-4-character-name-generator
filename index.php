@@ -1,5 +1,5 @@
 <?php
-$name = file_get_contents('https://joshuad.xyz/4chr/check.php');
+$name = file_get_contents('https://robloxgen.herokuapp.com/check.php');
 
 echo'<html>
 <head>
